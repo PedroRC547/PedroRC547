@@ -1,4 +1,4 @@
-### Olá! me chamo Pedro, tenho 20 anos sou formado em Segurança da Informação e estou cursando MBA em Inovação Digital e Sustentabilidade.
+### Olá! me chamo Pedro, tenho 20 anos sou formado em Segurança da Informação e estou cursando MBA em Tecnologias Digitais e Inovação Sustentável,.
 <div align="center">
   <a href="https://github.com/PedroRC547">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroRC547&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
