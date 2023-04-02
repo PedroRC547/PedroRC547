@@ -17,8 +17,12 @@
   
   <img align="center" alt="Pedro-mongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="Pedro-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Pedro-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Pedro-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Pedro-visualstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Pedro-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Pedro-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+  
+
+  
 </div>
 
 ##
